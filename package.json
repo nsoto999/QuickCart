@@ -1,6 +1,6 @@
 {
   "name": "quickcart",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "QuickCart is a free and open-source e-commerce template built using Next and Tailwind . It features a minimal, modern & responsive layout to help you launch your store with ease.",
   "main": "src/index.js",
   "scripts": {
